@@ -4,7 +4,7 @@ Automatically claim KR reward on [krunker.io](https://krunker.io)
 
 ## Prerequisites
 ```
-git clone REPO_URL
+git clone https://github.com/marcovolpato00/krunkrr.git
 cd krunkrr/
 pip3 install -r requirements.txt
 ```
