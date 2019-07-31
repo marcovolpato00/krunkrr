@@ -30,7 +30,7 @@ python3 krunkrr.py
 
 As a cron job, replace **DOWNLOAD_DIR** with the actual directory where you cloned this repo:
 ```
-* */6 * * * python3 DOWNLOAD_DIR/krunkrr.py   # runs every 6 hours
+0 */6 * * * python3 DOWNLOAD_DIR/krunkrr.py   # runs every 6 hours
 ```
 
 ## Running on ARM based devices
