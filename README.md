@@ -1,5 +1,7 @@
 # krunkrr
 
+# WARNING: This program no longer works due to changes of krunker.io claim mechanism
+
 Automatically claim KR reward on [krunker.io](https://krunker.io)
 
 ## Prerequisites
